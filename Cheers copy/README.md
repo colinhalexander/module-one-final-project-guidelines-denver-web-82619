@@ -14,6 +14,8 @@ Once the gems are correctly installed run 'ruby runner.rb' in your terminal in o
 
 When the app loads you are directed to a Welcome Page. You can select if you are a New or Returning User. The app allows one to rate beers, leave a review of a beer and to save and record their favorite beers. The user is also able to get a recommendation for a beer. 
 
+See Cheers_copy/Mod1-Project-Video.mp4 for a video demonstration of the Cheers app.
+
 # License:
 
 https://github.com/colinhalexander/Cheers/blob/master/LICENSE.md
